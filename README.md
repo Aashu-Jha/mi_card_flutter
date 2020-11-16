@@ -1,4 +1,4 @@
-assets/WhatsApp Image 2020-11-17 at 04.06.30.jpeg
+(https://github.com/Aashu-Jha/mi_card_flutter/blob/master/assets/WhatsApp%20Image%202020-11-17%20at%2004.06.30.jpeg)
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
